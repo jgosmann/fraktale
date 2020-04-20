@@ -1,0 +1,3 @@
+<gui>
+ <xma src="cantor.xma" autostart="yes" loop="yes" x="230" y="450" />
+</gui>

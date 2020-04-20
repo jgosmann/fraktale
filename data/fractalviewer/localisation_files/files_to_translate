@@ -1,0 +1,8 @@
+../../../src/fractalviewer/main.cpp
+../../../src/fractalviewer/include/gui_alert.h
+../../../src/fractalviewer/include/gui_credits.h
+../../../src/fractalviewer/include/gui_main.h
+../../../src/fractalviewer/include/gui_gradient.h
+../../../src/fractalviewer/include/gui_colsel.h
+../../../src/fractalviewer/include/gui_values.h
+../../../src/fractalviewer/include/xml_gradient.h

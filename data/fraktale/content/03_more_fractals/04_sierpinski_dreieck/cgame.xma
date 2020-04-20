@@ -1,0 +1,38 @@
+<animation length="10000" w="320" h="320">
+ <img src="00000.jpg" length="25" />
+ <fadein start="-25" length="25">
+  <img src="00500.jpg" />
+ </fadein>
+
+ <img src="00500.jpg" start="-1" length="25" />
+ <fadein start="-25" length="25">
+  <img src="01000.jpg" />
+ </fadein>
+
+ <img src="01000.jpg" start="-1" length="25" />
+ <fadein start="-25" length="25">
+  <img src="02000.jpg" />
+ </fadein>
+
+ <img src="02000.jpg" start="-1" length="25" />
+ <fadein start="-25" length="25">
+  <img src="04000.jpg" />
+ </fadein>
+
+ <img src="04000.jpg" start="-1" length="25" />
+ <fadein start="-25" length="25">
+  <img src="08000.jpg" />
+ </fadein>
+
+ <img src="08000.jpg" start="-1" length="25" />
+ <fadein start="-25" length="25">
+  <img src="16000.jpg" />
+ </fadein>
+
+ <img src="16000.jpg" start="-1" length="25" />
+ <fadein start="-25" length="25">
+  <img src="32000.jpg" />
+ </fadein>
+
+ <img src="32000.jpg" start="-1" />
+</animation>

@@ -1,0 +1,174 @@
+<animation length="3650" w="800" h="600">
+ <img src="back.jpg" />
+ <text value="Hallo! Dieses Tutorial gibt eine kurze Einführung"
+       start="-3650" length="50" x="400" y="550" color="0;0;0" />
+ <text value="in die Verwendung von FractalViewer."
+       length="50" x="400" y="550" color="0;0;0" />
+
+ <text value="Mit der Escape-Taste kann es"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="jederzeit abgebrochen werden."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="Die Space-Taste pausiert es und"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="mit den links und rechts Tasten"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="ist es möglich sich innerhalb"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="des Tutorials zu bewegen."
+       length="50" x="400" y="550" color="0;0;0" />
+
+ <img src="../marker.tga" length="150" y="-5" />
+ <text value="Um in ein Fraktal zu vergrößern wähle die Funktion"
+       start="-150" length="50" x="400" y="550" color="0;0;0" />
+ <text value="&quot;Reinzoomen&quot; und ziehe einen Rahmen um den"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="zu vergrößernden Bereich."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="150" y="25" />
+ <text value="Um in ein Fraktal zu verkleinern wähle die Funktion"
+       start="-150" length="50" x="400" y="550" color="0;0;0" />
+ <text value="&quot;Rauszoomen&quot; und klicke auf das Fraktal."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="Der angeklickte Punkt ist nach der Verkleinerung zentriert."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="150" y="55" />
+ <text value="Mit der Funktion &quot;Verschieben&quot; kann der"
+       start="-150" length="50" x="400" y="550" color="0;0;0" />
+ <text value="angezeigte Bildausschnitt per"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="Drag &amp; Drop verschoben werden."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="250" y="85" />
+ <text value="Wird die Funktion &quot;Julia&quot; ausgewählt,"
+       start="-250" length="50" x="400" y="550" color="0;0;0" />
+ <text value="erscheint unten rechts ein Vorschau-Fenster."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="Mit einem Klick auf das Hauptfraktal wird"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="die im Vorschau-Fenster gezeigt Julia-Menge"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="zu dem angeklickten Punkt berechnet."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="150" y="435" />
+ <text value="Der &quot;Beenden&quot;-Button verwandelt sich dann"
+       start="-150" length="50" x="400" y="550" color="0;0;0" />
+ <text value="in einen &quot;Zurück&quot;-Button mit dem man"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="das Hauptfraktal wieder aufrufen kann."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="Julia-Mengen können nur berechnet werden,"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="wenn das angezeigte Fraktal eine Mandelbrot-Menge ist."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="100" y="131" />
+ <text value="Der &quot;Rückgängig&quot;-Button macht die letzte"
+       start="-100" length="50" x="400" y="550" color="0;0;0" />
+ <text value="Zoom- oder Verschieben-Aktion rückgängig."
+       length="50" x="400" y="550" color="0;0;0" />
+
+ <img src="../marker.tga" length="50" y="177" />
+ <text value="Ein Klick auf &quot;Werte&quot; ruft"
+       start="-50" length="50" x="400" y="550" color="0;0;0" />
+ <img src="values.jpg" length="850" />
+ <text value="dieses Fenster auf."
+       start="-850" length="50" x="400" y="550" color="0;0;0" />
+ <text value="Dieses sieht je nach aktuellem Fraktal etwas anders aus."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker_values_01.tga" length="100" x="256" y="144"/>
+ <text value="In jedem Fall lassen sich die Koordinaten"
+       start="-100" length="50" x="400" y="550" color="0;0;0" />
+ <text value="des angezeigten Bereichs ändern."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker_values_02.tga" length="50" x="255" y="326"/>
+ <text value="und die Anzahl der Iterationen einstellen."
+       start="-50" length="50" x="400" y="550" color="0;0;0" />
+ <text value="Je höher die Zahl der Iterationen,"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="desto mehr Details treten"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="bei entprechender Vergrößerung hervor."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="Allerdings erhöht sich auch die Rechenzeit."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker_values_02.tga" length="100" x="255" y="365"/>
+ <text value="Wenn das aktuelle Fraktal keine Julia-Menge ist,"
+       start="-100" length="50" x="400" y="550" color="0;0;0" />
+ <text value="lassen sich auch das Newton- oder Spinnen-Fraktal auswählen."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="150" x="447" y="400"/>
+ <text value="Der Button &quot;Startwerte&quot; setzt"
+       start="-150" length="50" x="400" y="550" color="0;0;0" />
+ <text value="die Koordinaten des angezeigten Bereichs"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="auf die Standardeinstellung zurück."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="Ob und welche weiteren Einstellungen"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="in diesem Fenster verfügbar sind hängt"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="vom aktuellen Fraktal ab."
+       length="50" x="400" y="550" color="0;0;0" />
+
+ <img src="../marker.tga" length="50" y="207" />
+ <text value="Ein Klick auf &quot;Farben&quot; ruft"
+       start="-50" length="50" x="400" y="550" color="0;0;0" />
+ <img src="colors.jpg" length="950" />
+ <text value="ein Fenster auf mit dem die Farbgebung"
+       start="-950" length="50" x="400" y="550" color="0;0;0" />
+ <text value="des Fraktals eingestellt werden kann."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="Indem man die Schieberegler verschiebt,"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="lässt sich die Position der Farben verändern."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="Befindet sich die Maus über dem Farbverlauf,"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="so kann die zuletzt angeklickte Farbe"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="mit der Entfernen-Taste gelöscht werden."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="100" x="235" y="300"/>
+ <text value="&quot;Neue Farbe&quot; fügt"
+       start="-100" length="50" x="400" y="550" color="0;0;0" />
+ <text value="eine weitere Farbe in den Farbverlauf ein."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="Mit einem Rechts-Klick auf einen Schieberegler"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="kann dessen Farbe editiert werden."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="100" x="335" y="300"/>
+ <text value="Mit &quot;Hintergrund&quot; lässt sich"
+       start="-100" length="50" x="400" y="550" color="0;0;0" />
+ <text value="die Hintergrundsfarbe setzen."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="150" x="290" y="260"/>
+ <text value="Wenn mehr Farben benutzt werden,"
+       start="-150" length="50" x="400" y="550" color="0;0;0" />
+ <text value="wird der Farbverlauf feiner,"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="aber das Fraktal weniger scharf."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker_colors_01.tga" length="150" x="450" y="300"/>
+ <text value="Mit &quot;Laden&quot; und &quot;Speichern&quot; können"
+       start="-150" length="50" x="400" y="550" color="0;0;0" />
+ <text value="Farbverläufe abgespeichert"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="und später erneut geladen werden."
+       length="50" x="400" y="550" color="0;0;0" />
+
+ <img src="../marker2.tga" length="200" x="0" y="250"/>
+ <text value="Auch Fraktale können gespeichert"
+       start="-200" length="50" x="400" y="550" color="0;0;0" />
+ <text value="und später wieder geladen werden."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="Mit der Funktion &quot;Exportieren&quot; lässt sich"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="das Fraktal als Grafik exportieren."
+       length="50" x="400" y="550" color="0;0;0" />
+
+ <text value="Dies sollte fürs erste genügen."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="Viel Spaß beim Erforschen der Welt der Fraktale!"
+       length="100" x="400" y="550" size="40" color="0;0;0" />
+</animation>

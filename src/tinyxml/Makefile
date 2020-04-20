@@ -1,0 +1,7 @@
+CPP = /usr/bin/g++
+CPPFLAGS = -Wall -ansi -DTIXML_USE_STL
+
+all: tinystr.o tinyxml.o tinyxmlerror.o tinyxml.o tinyxmlparser.o
+
+%.o : %.cpp
+	$(CPP) $(CPPFLAGS) -c -o $@ $<

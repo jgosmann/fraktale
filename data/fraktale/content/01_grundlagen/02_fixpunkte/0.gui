@@ -1,0 +1,6 @@
+<gui>
+ <qcheck label="Das geht nicht!" type="radio" x="100" y="490" />
+ <qcheck label="Der Wert bleibt immer gleich (also 0 bzw. 0,6), egal wie lange man iteriert."
+  type="radio" x="100" y="505" rightanswer="yes" />
+ <qcheck label="Der Wert wächst ins Unedliche." type="radio" x="100" y="520" />
+</gui>

@@ -1,0 +1,4 @@
+<gui>
+ <qcheck label="Ja." type="radio" x="100" y="475" rightanswer="yes" />
+ <qcheck label="Nein." type="radio" x="100" y="490" />
+</gui>

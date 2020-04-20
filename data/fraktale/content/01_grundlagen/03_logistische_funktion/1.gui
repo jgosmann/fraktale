@@ -1,0 +1,4 @@
+<gui>
+ <qedit label="Wie viele Fixpunkte siehst du? " rightanswer="2"
+        type="small" maxchar="3" x="500" y="450" />
+</gui>

@@ -1,0 +1,24 @@
+<animation length="10000" w="618" h="376">
+ <img src="h3.jpg" length="50" />
+ <fadein start="-50" length="49">
+  <img src="h4.jpg" />
+ </fadein>
+
+ <img src="h4.jpg" start="-1" length="50" />
+ <fadein start="-50" length="50">
+  <img src="h5.jpg" />
+ </fadein>
+
+ <img src="h5.jpg" start="-1" length="50" />
+ <fadein start="-50" length="50">
+  <img src="h9.jpg" />
+ </fadein>
+
+ <img src="h9.jpg" start="-1" length="50" />
+ <fadein start="-50" length="50">
+  <img src="h12.jpg" />
+ </fadein>
+
+
+ <img src="h12.jpg" start="-1" />
+</animation>

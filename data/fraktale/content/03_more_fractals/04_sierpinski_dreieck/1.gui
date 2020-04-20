@@ -1,0 +1,3 @@
+<gui>
+ <xma src="generation.xma" autostart="yes" loop="yes" x="243" y="170" />
+</gui>

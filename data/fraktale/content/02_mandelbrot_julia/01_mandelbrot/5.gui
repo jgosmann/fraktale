@@ -1,0 +1,6 @@
+<gui>
+ <xma src="zoom.xma" autostart="yes" loop="yes" x="200" y="125" />
+ <qcheck label="Die Mandelbrotmenge ist selbstähnlich." rightanswer="yes" type="check" x="200" y="475" />
+ <qcheck label="Die Mandelbrotmenge ist achsensymmetrisch zur reellen Achse/x-Achse." rightanswer="yes" type="check" x="200" y="490" />
+ <qcheck label="Die Mandelbrotmenge ist achsensymmetrisch zur imaginären Achse/y-Achse." rightanswer="no" type="check" x="200" y="505" />
+</gui>

@@ -1,0 +1,11 @@
+<animation length="250" w="400" h="300">
+ <stretch w="640" h="480" neww="400" newh="300">
+  <img src="zoom1.jpg" length="50" />
+  <fzoom start="50" length="100" src0="zoom1.jpg" src1="zoom2.jpg" data0="-2,25;0,75;-1,125"
+  data1="-1,8140625;-1,7109375;-0,038671875" w="640" h="480" />
+  <img start="150" length="99" src="zoom2.jpg" />
+  <fadein start="200" length="50">
+   <img src="zoom1.jpg" />
+  </fadein>
+ </stretch>
+</animation>

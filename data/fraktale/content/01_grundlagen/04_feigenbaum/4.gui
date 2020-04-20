@@ -1,0 +1,10 @@
+<gui>
+ <xma src="zoom.xma" autostart="no" loop="no" x="250" y="170" />
+ <xmacontrol type="play" label="Wiedergabe" x="300" y="380" />
+ <xmacontrol type="stop" label="Anfang" x="400" y="380" />
+ <qcheck label="Nichts." type="radio" x="100" y="460" />
+ <qcheck label="Das Bild sieht gar nicht mehr nach dem Feigenbaum-Diagramm aus."
+  type="radio" x="100" y="475" />
+ <qcheck label="Das Bild sieht fast genau so wie vorher aus!" type="radio" x="100" y="490"
+  rightanswer="yes" />
+</gui>

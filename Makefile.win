@@ -1,0 +1,53 @@
+CPP = g++
+fraktale_CPPFLAGS = -Wall -ansi -DTIXML_USE_STL -DALLEGRO_STATICLINK
+fraktale_LDFLAGS = -mwindows -lintl -lalmp3 -lalfont_s -lalleg_s -ljpgal -lkernel32 -luser32 -lgdi32 -lcomdlg32 -lole32 -ldinput -lddraw -ldxguid -lwinmm -ldsound
+fractalviewer_CPPFLAGS = -Wall -ansi -DTIXML_USE_STL -DALLEGRO_STATICLINK
+fractalviewer_LDFLAGS = -mwindows -lintl -lalfont_s -lalleg_s -ljpgal -lkernel32 -luser32 -lgdi32 -lcomdlg32 -lole32 -ldinput -lddraw -ldxguid -lwinmm -ldsound
+
+all: bin\fraktale.exe bin\fractalviewer.exe lexikon
+
+bin\fraktale.exe: tinyxml.o fraktale.o data
+	$(CPP) $(fraktale_CPPFLAGS) -o bin\fraktale.exe tinyxml.o tinystr.o tinyxmlerror.o tinyxmlparser.o fraktale.o fraktale_res.res $(fraktale_LDFLAGS)
+	xcopy /s /e /y /i data\fraktale\content bin\content
+	xcopy /s /e /y /i data\fraktale\credits bin\credits
+	copy data\fraktale\load2.tga bin
+	copy data\gui\fraktale\* bin
+
+bin\fractalviewer.exe: tinyxml.o fractalviewer.o data
+	$(CPP) $(fractalviewer_CPPFLAGS) -o bin\fractalviewer.exe tinyxml.o tinystr.o tinyxmlerror.o tinyxmlparser.o fractalviewer.o fractalviewer_res.res $(fractalviewer_LDFLAGS)
+	copy data\fractalviewer\load*.tga bin
+	xcopy /s /e /y /i data\fractalviewer\locale bin\locale
+	xcopy /s /e /y /i data\fractalviewer\tutorial bin\tutorial
+
+lexikon:
+	xcopy /s /e /y /i data\lexikon bin\lexikon
+
+tinyxml.o:
+	make -C src\tinyxml
+	copy src\tinyxml\*.o .
+	del src\tinyxml\*.o
+
+data:
+	copy data\fonts\* bin
+	copy data\gui\*.* bin
+
+fraktale.o:
+	make -C src\fraktale
+	copy src\fraktale\*.o .
+	copy src\fraktale\*.res .
+	del src\fraktale\*.o
+
+fractalviewer.o:
+	make -C src\fractalviewer
+	copy src\fractalviewer\*.o .
+	copy src\fractalviewer\*.res .
+	del src\fractalviewer\*.o
+
+clean:
+	-del /q *.o
+	-del /q *.res
+
+clean-all: clean
+	-del /f /s /q bin\*
+
+.PHONY: all data clean clean-all

@@ -1,0 +1,7 @@
+CPP = g++
+WINDRES = windres.exe
+CPPFLAGS = -Wall -ansi -DTIXML_USE_STL -DALLEGRO_STATICLINK -I../include -I../tinyxml
+
+all:
+	$(CPP) $(CPPFLAGS) -c -o fractalviewer.o main.cpp
+	$(WINDRES) -i fractalviewer_res.rc --input-format=rc -o fractalviewer_res.res -O coff

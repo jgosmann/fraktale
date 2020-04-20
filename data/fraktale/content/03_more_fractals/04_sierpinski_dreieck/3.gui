@@ -1,0 +1,5 @@
+<gui>
+ <xma src="cgame.xma" autostart="no" loop="no" x="240" y="170" />
+ <xmacontrol type="play" label="Wiedergabe" x="300" y="500" />
+ <xmacontrol type="stop" label="Anfang" x="400" y="500" />
+</gui>

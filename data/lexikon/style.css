@@ -1,0 +1,50 @@
+
+body
+{
+background-color: #efefef;
+text-align: left;
+SCROLLBAR-FACE-COLOR: #f2f2f2; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #e1e1e1; SCROLLBAR-3DLIGHT-COLOR: #c0c0c0; SCROLLBAR-ARROW-COLOR: #6699cc; SCROLLBAR-TRACK-COLOR: #efefef; SCROLLBAR-DARKSHADOW-COLOR: #c0c0c0;
+margin: 30px;
+}
+
+td
+{padding-left:20px;
+font-size: 10pt;
+color: #003366;
+font-family: verdana, sans, tohama;
+background-repeat: no-repeat;
+text-align: left;
+}
+
+p
+{
+font-size: 10pt;
+color: #003366;
+font-family: verdana, sans, tohama;
+background-repeat: no-repeat;
+text-align: left;
+}
+
+h3
+{
+font-size: 12pt;
+color: #666666;
+font-weight: bold;
+font-family: verdana, sans, tohama;
+background-repeat: no-repeat;
+text-align: left;
+}
+
+a
+{
+font-size: 10pt;
+color: #333333;
+font-decoration: underline;
+font-family: verdana, sans, tohama;
+background-repeat: no-repeat;
+text-align: left;
+}
+img
+{
+border: #666666 1px solid;
+}

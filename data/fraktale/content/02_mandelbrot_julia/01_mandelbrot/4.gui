@@ -1,0 +1,3 @@
+<gui>
+ <xma src="colors.xma" autostart="yes" loop="yes" x="267" y="340" />
+</gui>

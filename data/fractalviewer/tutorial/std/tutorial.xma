@@ -1,0 +1,182 @@
+<animation length="3900" w="800" h="600">
+ <img src="back.jpg" />
+ <text value="Hello! This tutorial will give you"
+       start="-3900" length="50" x="400" y="550" color="0;0;0" />
+ <text value="a short introduction to FractalViewer."
+       length="50" x="400" y="550" color="0;0;0" />
+
+ <text value="You can stop it"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="with the escape key anytime."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="The space key will pause it"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="and with the left and right"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="arrow key you can"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="move in the tutorial."
+       length="50" x="400" y="550" color="0;0;0" />
+
+ <img src="../marker.tga" length="150" y="-5" />
+ <text value="To zoom a fractal chose the function"
+       start="-150" length="50" x="400" y="550" color="0;0;0" />
+ <text value="&quot;Zoom in&quot; and drag a box"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="around the area you want to zoom."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="150" y="25" />
+ <text value="To zoom out chose the function"
+       start="-150" length="50" x="400" y="550" color="0;0;0" />
+ <text value="&quot;Zoom out&quot; and click at the fractal."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="The point you've clicked at"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="will be centered afterwards."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="150" y="55" />
+ <text value="With the function &quot;Move&quot; you"
+       start="-150" length="50" x="400" y="550" color="0;0;0" />
+ <text value="can change the shown area"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="by drag &amp; drop."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="250" y="85" />
+ <text value="If you select the function &quot;Julia&quot;,"
+       start="-250" length="50" x="400" y="550" color="0;0;0" />
+ <text value="you'll see a preview window"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="in the bottom right corner."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="With a click at the main fractal"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="the Julia set"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="will be calculated."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="150" y="435" />
+ <text value="The &quot;Exit&quot; button changes then"
+       start="-150" length="50" x="400" y="550" color="0;0;0" />
+ <text value="to a &quot;Back&quot; button which will"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="display the main fractal again."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="The Julia set can only be calculated,"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="if the shown fractal is a Mandelbrot set."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="100" y="131" />
+ <text value="The &quot;Undo&quot; button undos"
+       start="-100" length="50" x="400" y="550" color="0;0;0" />
+ <text value="the last zoom or move action."
+       length="50" x="400" y="550" color="0;0;0" />
+
+ <img src="../marker.tga" length="50" y="177" />
+ <text value="A click at &quot;Values&quot; displays"
+       start="-50" length="50" x="400" y="550" color="0;0;0" />
+ <img src="values.jpg" length="950" />
+ <text value="this window."
+       start="-950" length="50" x="400" y="550" color="0;0;0" />
+ <text value="It is for each fractal slightly different."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker_values_01.tga" length="100" x="256" y="144"/>
+ <text value="For every fractal you can change"
+       start="-100" length="50" x="400" y="550" color="0;0;0" />
+ <text value="the coordinates of the shown fractal"
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker_values_02.tga" length="50" x="255" y="326"/>
+ <text value="and the number of iterations."
+       start="-50" length="50" x="400" y="550" color="0;0;0" />
+ <text value="If the number of iterations is higher,"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="you will see more details,"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="when you zoom in."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="But the time which is needed"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="for calculating increases."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker_values_02.tga" length="100" x="255" y="365"/>
+ <text value="If the shown fractal no Julia set,"
+       start="-100" length="50" x="400" y="550" color="0;0;0" />
+ <text value="you can also chose to display"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="the Newton or spider fractal."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="150" x="447" y="400"/>
+ <text value="The button &quot;Start values&quot; will"
+       start="-150" length="50" x="400" y="550" color="0;0;0" />
+ <text value="set the coordinates"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="to the standard values."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="Whether there are other settings"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="in this window, depends on"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="the shown fractal."
+       length="50" x="400" y="550" color="0;0;0" />
+
+ <img src="../marker.tga" length="50" y="207" />
+ <text value="A click at &quot;Coloring&quot; will display"
+       start="-50" length="50" x="400" y="550" color="0;0;0" />
+ <img src="colors.jpg" length="950" />
+ <text value="a window which allows you"
+       start="-950" length="50" x="400" y="550" color="0;0;0" />
+ <text value="to change the colors of the fractal."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="Move the sliders"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="to change the position of the colors."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="If the mouse is over the gradient,"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="you can delete the color which was"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="last clicked at with the delete key."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="100" x="235" y="300"/>
+ <text value="&quot;Add color&quot; adds"
+       start="-100" length="50" x="400" y="550" color="0;0;0" />
+ <text value="a new color to the gradient."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="With a right click at a slider"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="you can edit the color of it."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="100" x="335" y="300"/>
+ <text value="With &quot;Bg color&quot; you can change"
+       start="-100" length="50" x="400" y="550" color="0;0;0" />
+ <text value="the background color."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker.tga" length="150" x="290" y="260"/>
+ <text value="If you use more colors,"
+       start="-150" length="50" x="400" y="550" color="0;0;0" />
+ <text value="the gradient will be smoother,"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="but the fractal will be less sharpen."
+       length="50" x="400" y="550" color="0;0;0" />
+ <img src="../marker_colors_01.tga" length="150" x="450" y="300"/>
+ <text value="With &quot;Load&quot; and &quot;Save&quot; you can"
+       start="-150" length="50" x="400" y="550" color="0;0;0" />
+ <text value="save and load"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="your gradients."
+       length="50" x="400" y="550" color="0;0;0" />
+
+ <img src="../marker2.tga" length="200" x="0" y="250"/>
+ <text value="You are also able to save"
+       start="-200" length="50" x="400" y="550" color="0;0;0" />
+ <text value="and load fractals."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="With the function &quot;Export&quot; you can"
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="export the fractal to a graphic file."
+       length="50" x="400" y="550" color="0;0;0" />
+
+ <text value="This should be enough for the first steps."
+       length="50" x="400" y="550" color="0;0;0" />
+ <text value="I wish you much fun exploring the fractals!"
+       length="100" x="400" y="550" size="40" color="0;0;0" />
+</animation>

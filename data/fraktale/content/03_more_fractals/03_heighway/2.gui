@@ -1,0 +1,5 @@
+<gui>
+ <xma src="generation.xma" autostart="no" loop="no" x="91" y="142" />
+ <xmacontrol type="play" label="Wiedergabe" x="300" y="530" />
+ <xmacontrol type="stop" label="Anfang" x="400" y="530" />
+</gui>

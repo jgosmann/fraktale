@@ -1,0 +1,439 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-06-18 19:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../main.cpp:121
+msgid "Fatal error: Allegro could not be initialised!"
+msgstr "Ausnahmefehler: Allegro konnte nicht initialisiert werden!"
+
+#: ../main.cpp:130
+msgid "Fatal error: Graphic mode could not be initialised!"
+msgstr "Ausnahmefehler: Grafischer Modus konnte nicht initialisiert werden!"
+
+#: ../main.cpp:135
+msgid "load_en.tga"
+msgstr "load_de.tga"
+
+#: ../main.cpp:136 ../main.cpp:179 ../main.cpp:182 ../main.cpp:185
+#: ../main.cpp:188 ../main.cpp:192 ../main.cpp:195
+msgid "Following graphics file could not be loaded:"
+msgstr "Folgende Grafik-Datei konnte nicht geladen werden:"
+
+#: ../main.cpp:140
+msgid "Fatal error: Keyboard could not be initialised!"
+msgstr "Ausnahmefehler: Tastatur konnte nicht initialisiert werden!"
+
+#: ../main.cpp:142
+msgid "Fatal error: Timer could not be initialised!"
+msgstr "Ausnahmefehler: Timer konnte nicht initialisiert werden!"
+
+#: ../main.cpp:144
+msgid "Fatal error: Mouse could not be initialised!"
+msgstr "Ausnahmefehler: Maus konnte nicht initialisiert werden!"
+
+#: ../main.cpp:147
+msgid "Fatal error: Alfont could not be initialised!"
+msgstr "Ausnahmefehler: Alfont konnte nicht initialisiert werden!"
+
+#: ../main.cpp:151
+msgid "Fatal error: alfont_exit () could not be registred as atexit-function!"
+msgstr ""
+"Ausnahmefehler: alfont_exit () konnte nicht als atexit-Funktion registriert "
+"werden!"
+
+#: ../main.cpp:158
+msgid "Fatal error: deinit () could not be registred as atexit-function!"
+msgstr ""
+"Ausnahmefehler: deinit () konnte nicht als atexit-Funktion registriert "
+"werden!"
+
+#: ../main.cpp:168
+msgid "Font could not be loaded:"
+msgstr "Schrift konnte nicht geladen werden:"
+
+#: ../main.cpp:239
+msgid "Fatal error: Memory for data could not be allocated!"
+msgstr ""
+"Ausnahmefehler: Speicher f\303\274r Daten konnte nicht alloziiert werden."
+
+#: ../main.cpp:243
+msgid "An unexpected error occured!"
+msgstr "Es ist ein nicht vorhergesehener Fehler aufgetreten!"
+
+#: ../main.cpp:250
+msgid "Press any key..."
+msgstr "Bitte eine Taste dr\303\274cken..."
+
+#: ../main.cpp:257
+msgid "Error: JPEG support could not be initialised."
+msgstr "Fehler: JPEG-Support konnte nicht initialisiert werden."
+
+#: ../main.cpp:257 ../prgm_include/gui_main.h:122
+#: ../prgm_include/gui_main.h:193 ../prgm_include/gui_main.h:198
+#: ../prgm_include/gui_main.h:214 ../prgm_include/gui_main.h:222
+#: ../prgm_include/gui_main.h:247 ../prgm_include/gui_main.h:359
+#: ../prgm_include/gui_main.h:407 ../prgm_include/gui_main.h:423
+#: ../prgm_include/gui_gradient.h:68 ../prgm_include/gui_gradient.h:74
+#: ../prgm_include/gui_gradient.h:117 ../prgm_include/gui_gradient.h:160
+#: ../prgm_include/gui_gradient.h:177 ../prgm_include/gui_colsel.h:121
+#: ../prgm_include/gui_values.h:124 ../prgm_include/gui_values.h:126
+#: ../prgm_include/gui_values.h:128 ../prgm_include/gui_values.h:131
+#: ../prgm_include/gui_values.h:133 ../prgm_include/gui_values.h:135
+#: ../prgm_include/gui_values.h:137 ../prgm_include/gui_values.h:275
+#: ../prgm_include/xml_gradient.h:84 ../prgm_include/xml_gradient.h:92
+#: ../prgm_include/xml_gradient.h:97 ../prgm_include/xml_gradient.h:105
+#: ../prgm_include/xml_gradient.h:118 ../prgm_include/xml_gradient.h:124
+msgid "OK"
+msgstr "OK"
+
+#: ../main.cpp:276 ../main.cpp:287 ../prgm_include/gui_credits.h:42
+msgid "Back"
+msgstr "Zur\303\274ck"
+
+#: ../main.cpp:295 ../prgm_include/gui_main.h:573
+msgid "Exit"
+msgstr "Beenden"
+
+#: ../main.cpp:317
+msgid "Calculating..."
+msgstr "Rechne..."
+
+#: ../main.cpp:329
+msgid "Some errors occured:"
+msgstr "Es traten Fehler auf:"
+
+#: ../prgm_include/gui_credits.h:48
+msgid "FractalViewer"
+msgstr "FractalViewer"
+
+#: ../prgm_include/gui_credits.h:52
+msgid "Copyright \251 2005 Jan Gosmann"
+msgstr "Copyright \251 2005 Jan Gosmann"
+
+#: ../prgm_include/gui_credits.h:55
+msgid "Developed by Jan Gosmann"
+msgstr "Entwickelt von Jan Gosmann"
+
+#: ../prgm_include/gui_credits.h:58
+msgid "Graphics by Yujiang Wang"
+msgstr "Grafiken von Yujiang Wang"
+
+#: ../prgm_include/gui_credits.h:61
+msgid "Visit:"
+msgstr "Besuch doch mal folgende Websites:"
+
+#: ../prgm_include/gui_credits.h:64
+msgid "http://www.hyper-world.de.vu"
+msgstr "http://www.hyper-world.de.vu"
+
+#: ../prgm_include/gui_credits.h:67
+msgid "http://www.simple-graphix.de"
+msgstr "http://www.simple-graphix.de"
+
+#: ../prgm_include/gui_credits.h:70
+msgid "Following (great) libraries has been used in this program:"
+msgstr "Folgende (tolle) Libraries wurden in diesem Programm verwendet:"
+
+#: ../prgm_include/gui_credits.h:74
+msgid "Allegro 4, http://alleg.sourceforg.net"
+msgstr "Allegro 4, http://alleg.sourceforg.net"
+
+#: ../prgm_include/gui_credits.h:77
+msgid "AllegroFont, http://nekros.freeshell.org/delirium/alfont.php"
+msgstr "AllegroFont, http://nekros.freeshell.org/delirium/alfont.php"
+
+#: ../prgm_include/gui_credits.h:81
+msgid "JPGalleg, http://www.ecplusplus.com/index.php?page=projects&pid=1"
+msgstr "JPGalleg, http://www.ecplusplus.com/index.php?page=projects&pid=1"
+
+#: ../prgm_include/gui_credits.h:85
+msgid "Freetype (as part of AllegroFont), http://www.freetype.org"
+msgstr "Freetype (als Teil von AllegroFont), http://www.freetype.org"
+
+#: ../prgm_include/gui_credits.h:88
+msgid "TinyXML, http://www.grinninglizard.com/tinyxml/"
+msgstr "TinyXML, http://www.grinninglizard.com/tinyxml/"
+
+#: ../prgm_include/gui_credits.h:91
+msgid "(with a little change in tinyxml.cpp in line 589)"
+msgstr "(mit einer kleinen Änderung in tinyxml.cpp in Zeile 589)"
+
+#: ../prgm_include/gui_credits.h:94
+msgid "Gettext, http://www.gnu.org/software/gettext/"
+msgstr "Gettext, http://www.gnu.org/software/gettext/"
+
+#: ../prgm_include/gui_credits.h:101
+msgid "QT, http://www.trolltech.com (only in the Linux version)"
+msgstr "QT, http://www.trolltech.com (nur in der Linux-Version)"
+
+#: ../prgm_include/gui_credits.h:104
+msgid "This program has been published under the terms"
+msgstr "Dieses Programm wurde unter den Bedingungen"
+
+#: ../prgm_include/gui_credits.h:107
+msgid "of the GNU General Public License."
+msgstr "der GNU General Public License ver\303\266ffentlicht."
+
+#: ../prgm_include/gui_credits.h:110
+msgid "See the file COPYING for details."
+msgstr "N\303\244hre Details in der Datei COPYING."
+
+#: ../prgm_include/gui_main.h:122
+msgid "This function is not availible at the moment!"
+msgstr "Diese Funktion ist im Moment nicht verf\303\274gbar!"
+
+#: ../prgm_include/gui_main.h:176 ../prgm_include/gui_main.h:321
+msgid "FractalViewer fractal (*.fvf)"
+msgstr "FractalViewer Fraktal (*.fvf)"
+
+#: ../prgm_include/gui_main.h:180 ../prgm_include/gui_main.h:325
+#: ../prgm_include/gui_main.h:398 ../prgm_include/gui_gradient.h:105
+#: ../prgm_include/gui_gradient.h:149
+msgid "All files (*)"
+msgstr "Alle Dateien (*)"
+
+#: ../prgm_include/gui_main.h:193 ../prgm_include/gui_gradient.h:117
+msgid "File could not be loaded!"
+msgstr "Datei konnte nicht geladen werden!"
+
+#: ../prgm_include/gui_main.h:198 ../prgm_include/xml_gradient.h:84
+msgid "Incorrect data format!"
+msgstr "Falsches Dateiformat!"
+
+#: ../prgm_include/gui_main.h:214 ../prgm_include/xml_gradient.h:92
+#: ../prgm_include/xml_gradient.h:97 ../prgm_include/xml_gradient.h:105
+#: ../prgm_include/xml_gradient.h:118 ../prgm_include/xml_gradient.h:124
+msgid "File is corrupted!"
+msgstr "Datei ist besch\303\244digt!"
+
+#: ../prgm_include/gui_main.h:222
+msgid "Unknown fractal type!"
+msgstr "Unbekannter Fraktal-Typ"
+
+#: ../prgm_include/gui_main.h:247
+msgid "View data is corrupted!"
+msgstr "Ansichtsdaten sind besch\303\244digt!"
+
+#: ../prgm_include/gui_main.h:359 ../prgm_include/gui_gradient.h:160
+msgid "An error occured while saving!"
+msgstr "W\303\244hrend des Speicherns trat ein Fehler auf!"
+
+#: ../prgm_include/gui_main.h:372
+msgid "All supported files (*.jpg *.tga *.bmp *.pcx)"
+msgstr "All unterst\303\274tzten Formate (*.jpg *.tga *.bmp *.pcx)"
+
+#: ../prgm_include/gui_main.h:382
+msgid "JPG files (*.jpg)"
+msgstr "JPG-Dateien (*.jpg)"
+
+#: ../prgm_include/gui_main.h:386
+msgid "TGA files (*.tga)"
+msgstr "TGA-Dateien (*.tga)"
+
+#: ../prgm_include/gui_main.h:390
+msgid "BMP files (*.bmp)"
+msgstr "BMP-Dateien (*.bmp)"
+
+#: ../prgm_include/gui_main.h:394
+msgid "PCX files (*.pcx)"
+msgstr "PCX-Dateien (*.pcx)"
+
+#: ../prgm_include/gui_main.h:407
+msgid "Error while saving file!"
+msgstr "W\303\244hrend des Speicherns trat ein Fehler auf!"
+
+#: ../prgm_include/gui_main.h:420
+msgid "tutorial/std/tutorial.xma"
+msgstr "tutorial/german/tutorial.xma"
+
+#: ../prgm_include/gui_main.h:423
+msgid "Tutorial could not be loaded!"
+msgstr "Tutorial konnte nicht geladen werden!"
+
+#: ../prgm_include/gui_main.h:519
+msgid "Zoom in"
+msgstr "Reinzoomen"
+
+#: ../prgm_include/gui_main.h:523
+msgid "Zoom out"
+msgstr "Rauszoomen"
+
+#: ../prgm_include/gui_main.h:527
+msgid "Move"
+msgstr "Verschieben"
+
+#: ../prgm_include/gui_main.h:531
+msgid "Julia"
+msgstr "Julia"
+
+#: ../prgm_include/gui_main.h:537
+msgid "Undo"
+msgstr "R\303\274ckg\303\244ngig"
+
+#: ../prgm_include/gui_main.h:542
+msgid "Values"
+msgstr "Werte"
+
+#: ../prgm_include/gui_main.h:546
+msgid "Coloring"
+msgstr "Farben"
+
+#: ../prgm_include/gui_main.h:551 ../prgm_include/gui_gradient.h:188
+msgid "Load"
+msgstr "Laden"
+
+#: ../prgm_include/gui_main.h:555 ../prgm_include/gui_gradient.h:191
+msgid "Save"
+msgstr "Speichern"
+
+#: ../prgm_include/gui_main.h:559
+msgid "Export"
+msgstr "Exportieren"
+
+#: ../prgm_include/gui_main.h:564
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#: ../prgm_include/gui_main.h:568
+msgid "Credits"
+msgstr "Credits"
+
+#: ../prgm_include/gui_gradient.h:67
+msgid "Colors has to be a value greater than 0 and lower than 256!"
+msgstr ""
+"Farben muss ein Wert gr\303\266\303\237er als 0 und kleiner als 256 sein!"
+
+#: ../prgm_include/gui_gradient.h:74
+msgid "There has to be at least one color in the gradient!"
+msgstr "Es muss sich mindestens eine Farbe im Farbverlauf befinden!"
+
+#: ../prgm_include/gui_gradient.h:101 ../prgm_include/gui_gradient.h:145
+msgid "FractalViewer gradient (*.fvg)"
+msgstr "FractalViewer Farbverlauf (*.fvg)"
+
+#: ../prgm_include/gui_gradient.h:180 ../prgm_include/gui_colsel.h:124
+#: ../prgm_include/gui_values.h:279
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: ../prgm_include/gui_gradient.h:182
+msgid "Add color"
+msgstr "Neue Farbe"
+
+#: ../prgm_include/gui_gradient.h:185
+msgid "Bg color"
+msgstr "Hintergrund"
+
+#: ../prgm_include/gui_gradient.h:194
+msgid "Colors: "
+msgstr "Farben: "
+
+#: ../prgm_include/gui_colsel.h:126
+msgid "Red: "
+msgstr "Rot: "
+
+#: ../prgm_include/gui_colsel.h:129
+msgid "Green: "
+msgstr "Gr\303\274n: "
+
+#: ../prgm_include/gui_colsel.h:132
+msgid "Blue: "
+msgstr "Blau: "
+
+#: ../prgm_include/gui_values.h:124
+msgid "Min. a contains a forbidden value!"
+msgstr "Min. a enth\303\244lt einen ung\303\274ltigen Wert!"
+
+#: ../prgm_include/gui_values.h:126
+msgid "Max. a contains a forbidden value!"
+msgstr "Max. a enth\303\244lt einen ung\303\274ltigen Wert!"
+
+#: ../prgm_include/gui_values.h:128
+msgid "Min. b contains a forbidden value!"
+msgstr "Min. b enth\303\244lt einen ung\303\274ltigen Wert!"
+
+#: ../prgm_include/gui_values.h:131
+msgid "Exponent contains a forbidden value!"
+msgstr "Exponent enth\303\244lt einen ung\303\274ltigen Wert!"
+
+#: ../prgm_include/gui_values.h:133
+msgid "c (real) contains a forbidden value!"
+msgstr "c (reel) enth\303\244lt einen ung\303\274ltigen Wert!"
+
+#: ../prgm_include/gui_values.h:135
+msgid "c (imag) contains a forbidden value!"
+msgstr "c (imag) enth\303\244lt einen ung\303\274ltigen Wert!"
+
+#: ../prgm_include/gui_values.h:137
+msgid "Iterations contains a forbidden value!"
+msgstr "Iterationen enth\303\244lt einen ung\303\274ltigen Wert!"
+
+#: ../prgm_include/gui_values.h:283
+msgid "Start values"
+msgstr "Startwerte"
+
+#: ../prgm_include/gui_values.h:289
+msgid "Mandelbrot"
+msgstr "Mandelbrot"
+
+#: ../prgm_include/gui_values.h:293
+msgid "Newton"
+msgstr "Newton"
+
+#: ../prgm_include/gui_values.h:297
+msgid "Spider"
+msgstr "Spinne"
+
+#: ../prgm_include/gui_values.h:301
+msgid "Min. a: "
+msgstr "Min. a: "
+
+#: ../prgm_include/gui_values.h:306
+msgid "Max. a: "
+msgstr "Max. a: "
+
+#: ../prgm_include/gui_values.h:311
+msgid "Min. b: "
+msgstr "Min. b: "
+
+#: ../prgm_include/gui_values.h:316
+msgid "Max. b: "
+msgstr "Max. b: "
+
+#: ../prgm_include/gui_values.h:322
+msgid "Const 1: "
+msgstr "Konst. 1: "
+
+#: ../prgm_include/gui_values.h:327
+msgid "Const 2: "
+msgstr "Konst 2: "
+
+#: ../prgm_include/gui_values.h:333
+msgid "Iterations: "
+msgstr "Iterationen: "
+
+#: ../prgm_include/gui_values.h:408
+msgid "Exponent: "
+msgstr "Exponent: "
+
+#: ../prgm_include/gui_values.h:420
+msgid "c (real): "
+msgstr "c (reel)"
+
+#: ../prgm_include/gui_values.h:422
+msgid "c (imag): "
+msgstr "c (imag): "

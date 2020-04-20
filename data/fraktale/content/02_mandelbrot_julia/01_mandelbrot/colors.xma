@@ -1,0 +1,21 @@
+<animation length="300" w="267" h="200">
+ <stretch w="640" h="480" neww="267" newh="200">
+  <img src="mandel01.jpg" length="51" />
+  <fadein length="51"><img src="mandel02.jpg" /></fadein>
+
+  <img src="mandel02.jpg" length="51" start="50" />
+  <fadein start="50" length="51"><img src="mandel03.jpg" /></fadein>
+
+  <img src="mandel03.jpg" length="51" start="100" />
+  <fadein start="100" length="51"><img src="mandel04.jpg" /></fadein>
+
+  <img src="mandel04.jpg" length="51" start="150" />
+  <fadein start="150" length="51"><img src="mandel05.jpg" /></fadein>
+
+  <img src="mandel05.jpg" length="51" start="200" />
+  <fadein start="200" length="51"><img src="mandel06.jpg" /></fadein>
+
+  <img src="mandel06.jpg" length="51" start="250" />
+  <fadein start="250" length="51"><img src="mandel01.jpg" /></fadein>-
+ </stretch>
+</animation>

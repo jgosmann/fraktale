@@ -1,0 +1,4 @@
+<gui>
+ <qedit label="Welchen Wert erhälst du für den nächsten Iterationsschritt? " rightanswer="15"
+        type="small" maxchar="3" x="500" y="450" />
+</gui>

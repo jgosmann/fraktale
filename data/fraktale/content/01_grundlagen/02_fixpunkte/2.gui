@@ -1,0 +1,9 @@
+<gui>
+ <iter xmin="-0,1" xmax="1" ymin="-0,1" ymax="1" xres="250" yres="250" my="2,5" n="50" lower="0" greater="1" x="275" y="185"/>
+ <iteredt label="Wert: " maxchar="10" type="small" x="325" y="440" />
+ <iterbut label="Iterieren!" x="425" y="440" />
+ <qcheck label="Die Werte nähern sich immer dem Schnittpunkt mit der Winkelhalbierenden bei 0,6 an." type="radio" x="100" y="500" rightanswer="yes" />
+ <qcheck label="Die Werte entfernen sich vom Schnittpunkt mit der Winkelhalbierenden bei 0,6."
+  type="radio" x="100" y="515" />
+ <qcheck label="Es lässt sich keine allgemeine Aussage machen." type="radio" x="100" y="530" />
+</gui>

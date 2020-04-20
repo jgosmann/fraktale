@@ -1,0 +1,39 @@
+<animation length="1180" w="800" h="600">
+ <move y="600" endy="-1180" h="1180">
+  <text y="0" value="Fraktale" x="400" size="25" color="255;255;255" align="center" />
+  <text y="30" value="oder" x="400" size="25" color="255;255;255" align="center" />
+  <text y="60" value="Wie lang ist Englands Küste wirklich?" x="400" size="25" color="255;255;255" align="center" />
+
+  <text y="120" value="Programmiert von Jan Gosmann" x="400" size="25" color="255;255;255" align="center" />
+  <text y="150" value="Grafiken von Yujiang Wang" x="400" size="25" color="255;255;255" align="center" />
+  <text y="180" value="Inhalt von Jan Gosmann und Yujiang Wang" x="400" size="25" color="255;255;255" align="center" />
+
+  <text y="240" value="Besuch doch mal unsere Homepages:" x="400" size="25" color="255;255;255" align="center" />
+  <text y="270" value="www.hyper-world.de.vu" x="400" size="25" color="255;255;255" align="center" />
+  <text y="300" value="www.simple-graphix.de" x="400" size="25" color="255;255;255" align="center" />
+
+  <text y="390" value="Wir danken..." x="400" size="25" color="255;255;255" align="center" />
+  <text y="420" value="...den Autoren folgender toller Libraries," x="400" size="25" color="255;255;255" align="center" />
+  <text y="450" value="die wir in diesem Programm verwendet haben:" x="400" size="25" color="255;255;255" align="center" />
+  <text y="510" value="Allegro 4, http://alleg.sourceforge.net" x="400" size="25" color="255;255;255" align="center" />
+  <text y="540" value="AllegroFont, http://nekros.freeshell.org/delirium/alfont.php" x="400" size="25" color="255;255;255" align="center" />
+  <text y="570" value="Freetype (als Teil von AllegroFont), http://www.freetype.org" x="400" size="25" color="255;255;255" align="center" />
+  <text y="600" value="JPGalleg, http://www.ecplusplus.com/index.php?page=projects&amp;pid=1" x="400" size="25" color="255;255;255" align="center" />
+  <text y="630" value="AllegroMP3, http://nekros.freeshell.org/delirium/almp3.php" x="400" size="25" color="255;255;255" align="center" />
+  <text y="660" value="TinyXML, http://www.grinninglizard.com/tinyxml/" x="400" size="25" color="255;255;255" align="center" />
+  <text y="690" value="(mit einer kleinen Änderung in tinyxml.cpp in Zeile 593)" x="400" size="25" color="255;255;255" align="center" />
+
+  <text y="750" value="...Jürgen Meier (http://3d-meier.de) für seine Cinema4D-Plugins," x="400" size="25" color="255;255;255" align="center" />
+  <text y="780" value="die wir zur Erstellung einiger Grafiken verwendet haben." x="400" size="25" color="255;255;255" align="center" />
+
+  <text y="840" value="...allen Beta-Testern." x="400" size="25" color="255;255;255" align="center" />
+
+  <text y="900" value="Weiterhin danken wir natürlich auch dir," x="400" size="25" color="255;255;255" align="center" />
+  <text y="930" value="dafür, dass du dieses Programm installiert" x="400" size="25" color="255;255;255" align="center" />
+  <text y="960" value="und verwendet hast!" x="400" size="25" color="255;255;255" align="center" />
+
+  <text y="1120" value="Dieses Programm wurde unter der" x="400" size="25" color="255;255;255" align="center" />
+  <text y="1150" value="GNU General Public License veröffentlicht." x="400" size="25" color="255;255;255" align="center" />
+ </move>
+ <img start="-1180" src="overlay.tga" />
+</animation>

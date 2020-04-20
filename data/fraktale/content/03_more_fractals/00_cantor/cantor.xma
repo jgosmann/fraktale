@@ -1,0 +1,4 @@
+<animation length="75" w="340" h="28">
+ <img src="03.jpg" length="25" />
+ <fzoom src0="03.jpg" src1="03.jpg" data0="0;1;0;1" data1="0;0,333333;0;1" />
+</animation>

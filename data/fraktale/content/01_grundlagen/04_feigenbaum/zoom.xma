@@ -1,0 +1,6 @@
+<animation length="10000" w="300" h="200">
+ <img src="feigenbaum1.bmp" length="50" trans="no" />
+ <fzoom length="50" src0="feigenbaum1.bmp" src1="feigenbaum2.bmp" data0="0;4;0;1"
+  data1="3,4;3,6;0,8;0,9" w="300" h="200" />
+ <img src="feigenbaum2.bmp" trans="no" />
+</animation>
